@@ -1,3 +1,3 @@
 ## 1.0.0
 
-- Initial version, created by Stagehand
+A dart shelf server to hold web apps built in Flutter/FlutterFlow
